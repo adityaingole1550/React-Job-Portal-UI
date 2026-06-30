@@ -1,8 +1,8 @@
 const JobDiscription = [
   {
-    img: "public/Amazon.png",
+    img: "Amazon.png",
     isSave: "Save",
-    saveImg: "public/Save.png",
+    saveImg: "Save.png",
     companyName: "Amazon",
     time: "5 days ago",
     Description: "Senior UI/UX Designer",
@@ -12,9 +12,9 @@ const JobDiscription = [
     loc: "Mumbai, India",
   },
   {
-    img: "public/Google Logo.png",
+    img: "Google Logo.png",
     isSave: "Saved",
-    saveImg: "public/Saved.png",
+    saveImg: "Saved.png",
     companyName: "Google",
     time: "30 days ago",
     Description: "Graphic Designer",
@@ -24,9 +24,9 @@ const JobDiscription = [
     loc: "Kochi, India",
   },
   {
-    img: "public/Dribble Logo.png",
+    img: "Dribble Logo.png",
     isSave: "Save",
-    saveImg: "public/Save.png",
+    saveImg: "Save.png",
     companyName: "Dribble",
     time: "18 days ago",
     Description: "Senior Motion Designer",
@@ -36,9 +36,9 @@ const JobDiscription = [
     loc: "Chennai, India",
   },
   {
-    img: "public/Figma Logo.png",
+    img: "Figma Logo.png",
     isSave: "Saved",
-    saveImg: "public/Saved.png",
+    saveImg: "Saved.png",
     companyName: "Figma",
     time: "5 days ago",
     Description: "UX Designer",
@@ -48,9 +48,9 @@ const JobDiscription = [
     loc: "Bangalore, India",
   },
   {
-    img: "public/Aribnb Logo.png",
+    img: "Aribnb Logo.png",
     isSave: "Save",
-    saveImg: "public/Save.png",
+    saveImg: "Save.png",
     companyName: "Airbnb",
     time: "5 days ago",
     Description: "Junior UI/UX Designer",
@@ -60,9 +60,9 @@ const JobDiscription = [
     loc: "Delhi, India",
   },
   {
-    img: "public/Apple Logo.png",
+    img: "Apple Logo.png",
     isSave: "Saved",
-    saveImg: "public/Saved.png",
+    saveImg: "Saved.png",
     companyName: "Apple",
     time: "5 days ago",
     Description: "Graphics Designer",
@@ -74,7 +74,7 @@ const JobDiscription = [
   {
   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUX9GhKN31-SvsRc2dXF9cZ6FndxQhKlfFUNQtZCuHA&s=10",
   isSave: "Save",
-  saveImg: "public/Save.png",
+  saveImg: "Save.png",
   companyName: "Microsoft",
   time: "2 days ago",
   Description: "Frontend Developer",
@@ -86,7 +86,7 @@ const JobDiscription = [
 {
   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHh0J_X-VhgQCxTcUGSr18TgkmIayVgODIh9XfS357HQ&s=10",
   isSave: "Saved",
-  saveImg: "public/Saved.png",
+  saveImg: "Saved.png",
   companyName: "Netflix",
   time: "1 week ago",
   Description: "Product Designer",
@@ -98,7 +98,7 @@ const JobDiscription = [
 {
   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXn1gWoEgC9YuqyhP1aohyhV0nOdYcTef-sNEb5mx4yw&s=10",
   isSave: "Save",
-  saveImg: "public/Save.png",
+  saveImg: "Save.png",
   companyName: "Adobe",
   time: "4 days ago",
   Description: "UI Designer",
@@ -110,7 +110,7 @@ const JobDiscription = [
 {
   img: "https://static.vecteezy.com/system/resources/previews/055/331/308/non_2x/circle-spotify-icon-logo-symbol-free-png.png",
   isSave: "Saved",
-  saveImg: "public/Saved.png",
+  saveImg: "Saved.png",
   companyName: "Spotify",
   time: "10 days ago",
   Description: "Visual Designer",
@@ -122,7 +122,7 @@ const JobDiscription = [
 {
   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZzfJuVmvqQwMBkD6gxYNqe8d-v7lE5hUp7CMrHi9ig&s=10",
   isSave: "Save",
-  saveImg: "public/Save.png",
+  saveImg: "Save.png",
   companyName: "Meta",
   time: "3 days ago",
   Description: "React Developer",
@@ -134,7 +134,7 @@ const JobDiscription = [
 {
   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SBqfDBIfMZMTgonkSZNlev6mcVMo-M7xTMFQNgv33A&s=10",
   isSave: "Saved",
-  saveImg: "public/Saved.png",
+  saveImg: "Saved.png",
   companyName: "Uber",
   time: "6 days ago",
   Description: "Mobile App Designer",
